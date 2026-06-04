@@ -1,0 +1,26 @@
+{
+  "name": "Bedtime Routine",
+  "short_name": "Bedtime",
+  "description": "A warm, playful bedtime timer for children and parents.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#d7f2ff",
+  "theme_color": "#176ee8",
+  "categories": ["kids", "lifestyle", "productivity"],
+  "icons": [
+    {
+      "src": "assets/bedtime-dash.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "assets/bedtime-dash.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
